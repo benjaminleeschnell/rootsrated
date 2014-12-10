@@ -114,7 +114,7 @@ a:hover{text-decoration: none;}
 /* Custom bloc styling */
 
 #hero-bloc,#nav-bloc,#bloc-3{
-	background-color:#418d82;
+	background-color:#333333;
 }
 #bloc-2,#bloc-5{
 	background-color:#ffffff;
@@ -139,6 +139,10 @@ a:hover{text-decoration: none;}
 #bloc-2 h3{
 	font-size: 72px;
 	font-family: Arvo;
+}
+
+#bloc-2 p {
+	font-size: 25px;
 }
 
 /* Bloc image backgrounds */
